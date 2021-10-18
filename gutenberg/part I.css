@@ -1,0 +1,27 @@
+* {
+	background-color: lemonchiffon;
+}
+
+h1 {
+	font-family: Courier New;
+}
+
+h2 {
+	font-family: Georgia;
+}
+
+h3 {
+	font-family: Garamond;
+}
+
+h4 {
+	font-family: Verdana;
+}
+
+p {
+	font-family: Times New Roman;
+}
+
+img {
+	height: 120%;
+}
