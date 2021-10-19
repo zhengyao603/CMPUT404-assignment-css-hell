@@ -1,0 +1,84 @@
+header{
+    padding: 1pt;
+    background: #ea66a6;
+    text-align: center;
+    color: #c37e00;
+}
+
+header h1{
+	background: #5c7a29;
+	font-family: Apple Chancery;
+	font-size: 30pt;
+}
+
+header h2{
+	background: #5c7a29;
+	font-family: Courier New;
+	font-size: 15pt;
+}
+
+div{
+	background: #585eaa;
+}
+
+div.selfIntroduction{
+    text-align: center;
+    width: 65%;
+	float: left;
+	font-family: Georgia;
+	font-size: 15pt;
+}
+
+div.selfIntroduction h2{
+	background: #5c7a29;
+	font-size: 25pt;
+	font-family: Courier New;
+}
+
+div.selfIntroduction img{
+	height: 15%;
+	width: 15%;
+	float: left;
+}
+
+div.professionalHistory{
+	text-align: center;
+	width: 65%;
+	float: left;
+	font-family: Georgia;
+	font-size: 15pt;
+}
+
+div.professionalHistory h2{
+	background: #5c7a29;
+	font-size: 25pt;
+	font-family: Courier New;
+}
+
+div.ICanOffer{
+	text-align: center;
+	width: 65%;
+	float: left;
+	font-family: Georgia;
+	font-size: 15pt;
+}
+
+div.ICanOffer h2{
+	background: #5c7a29;
+	font-size: 25pt;
+	font-family: Courier New;
+}
+
+div.importantPoints{
+	background: #aa2116;
+	text-align: center;
+	width: 35%;
+	float: right;
+	font-family: Georgia;
+	font-size: 15pt;
+}
+
+div.importantPoints h2{
+	font-size: 25pt;
+	font-family: Courier New;
+}
